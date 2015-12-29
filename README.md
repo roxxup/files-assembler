@@ -11,12 +11,12 @@ python main.py [-d|-k|-p...] see python main.py --help for more information
 Usage: main.py [options]
 
 Options:
-  -h, --help      show this help message and exit
-  -k, --pics      assemble pics in Pics folder
-  -d, --doc       assemble documents in Document folder
-  -p, --programs  assemble programs in programs folder
-  -c, --compress  assemble compress files in Compressed folder
-  -v, --video     assemble videos in Video folder
+  -h, --help      show this help message and exit\n
+  -k, --pics      assemble pics in Pics folder\n
+  -d, --doc       assemble documents in Document folder\n
+  -p, --programs  assemble programs in programs folder\n
+  -c, --compress  assemble compress files in Compressed folder\n
+  -v, --video     assemble videos in Video folder\n
 
 
 ****************************************************************************************************************************
