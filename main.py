@@ -1,3 +1,4 @@
+import sys
 import optparse
 import re
 import shutil
@@ -127,7 +128,8 @@ parser.add_option('-v','--video',
 
 
 
-if __name__=="__main__":                                                                                                     
-	options, args = parser.parse_args()
-
-
+if __name__=="__main__":
+	if len(sys.argv) == 2:
+		options, args = parser.parse_args()
+	else:	
+		print "Too few arguments.Try: python main.py --help "
