@@ -25,7 +25,9 @@ Fork it () , improve it ()
 Help OpenSource community :) 
 
 To do list : 
-1) Make it portable to solaris , mac os x 
-2) Add Gui form so that everyone can use it 
-3) Adding recursive checking on given directory  
+1) Make it portable to solaris , mac os x <br> 
+
+2) Add Gui form so that everyone can use it <br> 
+
+3) Adding recursive checking on given directory <br> 
 
