@@ -7,17 +7,17 @@ Documentation:<br>
 
 #This program help to categorize files and put in the respective folder 
 <br>
-python main.py [-d|-k|-p...] see python main.py --help for more information 
-<br>
+<b> python main.py [-d|-k|-p...] see python main.py --help for more information </b> 
+<br><br>
 Usage: main.py [options]
-<br>
+<br><br>
 Options:<br>
-  -h, --help      show this help message and exit<br>
-  -k, --pics      assemble pics in Pics folder<br>
-  -d, --doc       assemble documents in Document folder<br>
-  -p, --programs  assemble programs in programs folder<br>
-  -c, --compress  assemble compress files in Compressed folder<br>
-  -v, --video     assemble videos in Video folder<br>
+  <b>-h, --help      show this help message and exit</b><br>
+  <b>-k, --pics      assemble pics in Pics folder</b><br>
+  <b>-d, --doc       assemble documents in Document folder</b><br>
+  <b>-p, --programs  assemble programs in programs folder</b><br>
+  <b>-c, --compress  assemble compress files in Compressed folder</b><br>
+  <b>-v, --video     assemble videos in Video folder</b><br>
 
 <br>
 ****************************************************************************************************************************<br>
