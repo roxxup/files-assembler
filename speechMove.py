@@ -48,27 +48,6 @@ def chatvoice(string):
 
 
 
-
-
-
-		
-
-'''
-my father and mother is unable to make enough money for my study in engineering colleges . Its very hard for my to get any resources to study books are very costly and online digital library too '''
-
-'''
-data science is a emerging field and this field will make me rich , my hardships will finally come to an end after learning about and gaining certificates and get recruited into good companies'''
-
-'''
-yes , i will help students in the help section and discussion forums . i will bind to the course and will try to make available this as most as possible '''
-
-
-
-
-
-	
-
-
 if __name__=="__main__":
 	while True:
 		takeString = speak() 
