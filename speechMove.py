@@ -60,7 +60,7 @@ if __name__=="__main__":
 		if takeString == "hi how are you":
 			chatvoice("i am good you tell about yourself")
 		if takeString == "shut up":
-			chatvoice("go fuck yourself")
+			chatvoice("bye see ya!")
 			sys.exit(-1)
 		if takeString == "Google":
 			chatvoice("move on")
